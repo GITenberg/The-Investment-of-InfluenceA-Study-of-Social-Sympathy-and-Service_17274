@@ -1,0 +1,26 @@
+_repo: The-Investment-of-InfluenceA-Study-of-Social-Sympathy-and-Service_17274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hillis, Newell Dwight
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '7266'
+    url: http://www.gutenberg.org/2009/agents/7266
+description: ''
+gutenberg_issued: '2005-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: 'The Investment of Influence: A Study of Social Sympathy and Service'
+url: http://www.gutenberg.org/ebooks/17274
